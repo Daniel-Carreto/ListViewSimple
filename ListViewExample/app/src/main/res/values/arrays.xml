@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="listado_peliculas">
+        <item>Inception</item>
+        <item>Memento</item>
+        <item>Requiem for a dream</item>
+        <item>Sherlock Holmes</item>
+        <item>The Dark Knight</item>
+    </string-array>
+</resources>
